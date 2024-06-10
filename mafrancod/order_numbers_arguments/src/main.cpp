@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    int a, b, num3;
+    int a, b, c;
 
     // Ingrese de los tres números
     cout << "Ingrese el primer numero: ";
