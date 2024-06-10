@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 # Añade el ejecutable
-add_executable(task_document-order-numbers src/number.cpp)
+add_executable(task_document-order-numbers src/lector.cpp)
