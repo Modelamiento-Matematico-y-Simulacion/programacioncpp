@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/task_document-order-numbers.dir/src/lector.cpp.o" -o task_document-order-numbers 

@@ -1,0 +1,3 @@
+/home/narvandre/programacioncpp/cristianbravo/build/CMakeFiles/task_document-order-numbers.dir
+/home/narvandre/programacioncpp/cristianbravo/build/CMakeFiles/edit_cache.dir
+/home/narvandre/programacioncpp/cristianbravo/build/CMakeFiles/rebuild_cache.dir
