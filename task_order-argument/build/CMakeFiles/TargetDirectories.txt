@@ -1,3 +1,0 @@
-/home/narvandre/programacioncpp/cristianbravo/build/CMakeFiles/task_order-argument.dir
-/home/narvandre/programacioncpp/cristianbravo/build/CMakeFiles/edit_cache.dir
-/home/narvandre/programacioncpp/cristianbravo/build/CMakeFiles/rebuild_cache.dir
