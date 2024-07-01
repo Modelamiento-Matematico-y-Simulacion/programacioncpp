@@ -9,10 +9,10 @@ struct Variable {
 };
 
 // Formula de distancia entre las parejas ordenadas
-        double calculardistancia(const Variable& v) {
-        double dx = v.p2x - v.p1x;
+    double calculardistancia(const Variable& v) {
+    double dx = v.p2x - v.p1x;
 	double dy = v.p2y - v.p1y;
-        return sqrt(dx * dx + dy * dy);
+    return sqrt(dx * dx + dy * dy);
 }
 int main () {
 	Variable v;
@@ -21,11 +21,11 @@ int main () {
 	std::cout <<"Ingresar el valor para p1x:";
 	std::cin >> v.p1x;
 	std::cout <<"Ingresar el valor para p1y:";
-        std::cin >> v.p1y;
+    std::cin >> v.p1y;
 	std::cout <<"Ingresar el valor para p2x:";
-        std::cin >> v.p2x;
-        std::cout <<"Ingresar el valor para p2y:";
-        std::cin >> v.p2y;
+    std::cin >> v.p2x;
+    std::cout <<"Ingresar el valor para p2y:";
+    std::cin >> v.p2y;
 
 	// Calcular la distancia entre las parejas ordenadas
 	double Distancia = calculardistancia(v);
